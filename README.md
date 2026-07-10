@@ -62,15 +62,3 @@ With a background that bridges data analysis and hands-on IT development, I enjo
 ### 🤝 Let's Connect!
 *   💼 LinkedIn:[www.linkedin.com/in/melati-octaviana-purba-a9342028a](https://www.linkedin.com/in/melati-octaviana-purba-a9342028a)
 *   📧 Email: *[melati.octaviana20@gmail.com](mailto:melati.octaviana20@gmail.com)
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=melatioctaviana20&show_icons=true&theme=visualstudio&count_private=true" alt="Melati's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melatioctaviana20&layout=compact&theme=visualstudio" alt="Top Languages" height="180px" />
-</p>
-
----
-
-### 🤝 Let's Connect!
-* 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-* 📧 Email: [melati@example.com](mailto:melati@example.com)
