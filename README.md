@@ -55,4 +55,4 @@ With a background that bridges data analysis and hands-on IT development, I enjo
 ---
 ### 🤝 Let's Connect!
 *   💼 LinkedIn:[www.linkedin.com/in/melati-octaviana-purba-a9342028a](https://www.linkedin.com/in/melati-octaviana-purba-a9342028a)
-*   📧 Email: *[melati.octaviana20@gmail.com](mailto:melati.octaviana20@gmail.com)
+*   📧 Email:[melati.octaviana20@gmail.com](mailto:melati.octaviana20@gmail.com)
