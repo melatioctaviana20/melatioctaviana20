@@ -1,9 +1,9 @@
 # Hi there, I'm Melati Octaviana Purba! 👋
 A passionate **Data Enthusiast and IT Developer** specializing in Data Analytics, Software Development, and UI/UX design. I love turning raw data into meaningful insights and building efficient, user-centric technology solutions. 
-
 With a background that bridges data analysis and hands-on IT development, I enjoy solving complex problems and collaborating in fast-paced team environments.
 
 ---
+
 
 ### 🚀 Quick Overview
 * 💻 **IT Development:** Experienced in building and maintaining tech solutions using JavaScript and modern development practices.
