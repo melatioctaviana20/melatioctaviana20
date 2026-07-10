@@ -2,7 +2,7 @@
 A passionate **Data Enthusiast and IT Developer** specializing in Data Analytics, Software Development, and UI/UX design. I love turning raw data into meaningful insights and building efficient, user-centric technology solutions. 
 With a background that bridges data analysis and hands-on IT development, I enjoy solving complex problems and collaborating in fast-paced team environments.
 
-#MY PORTOFOLIO DETAIL# = https://canva.link/gull8xv5x7e4hbj #MY PORTOFOLIO DETAIL#
+#MY PORTOFOLIO DETAIL = https://canva.link/gull8xv5x7e4hbj #MY PORTOFOLIO DETAIL#
 ---
 
 
